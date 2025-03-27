@@ -1,0 +1,5 @@
+<FacturaElectronica>
+    <Emisor>NIT123456789</Emisor>
+    <Receptor>NIT987654321</Receptor>
+    <Total>50000</Total>
+</FacturaElectronica>
